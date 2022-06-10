@@ -1,0 +1,56 @@
+.zzc {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 300px;
+  padding: 50px;
+  background-color: var(--pastelgradient1);
+  border-radius: 25px;
+  white-space: pre-line;
+  text-align: justify;
+  line-height: 150%;
+  color: #1a1a1a;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 9px;
+  letter-spacing: 0px;
+}
+.zzc-writing {
+}
+.zzc-writing b {
+  color: #ffd745;
+  opacity: 0.7;
+  font-family: var(--sansfont);
+  font-weight: bold;
+  font-size: 10px;
+}
+.zzc-writing i {
+  color: #000;
+}
+.zzc-writing u {
+  background-color: #ffd745;
+  padding: 2px 4px;
+  color: #000;
+  font-family: var(--seriffont);
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.zzc img {
+  width: 100px;
+  height: 100px;
+  background-size: 100%;
+  border: 10px solid #fff;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  vertical-align: middle;
+  -webkit-border-radius: 50%;
+}
+.zzci {
+  margin-top: -80px;
+  width: 105px;
+  height: 105px;
+  border: 3px solid #ffd745;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+}
